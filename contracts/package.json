@@ -1,0 +1,13 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.19.1",
+    "hardhat": "^3.0.14",
+    "typescript": "~5.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
