@@ -1,10 +1,11 @@
 {
   "name": "contracts",
   "version": "1.0.0",
-  "type": "module",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "@types/node": "^22.19.1",
-    "hardhat": "^3.0.14",
+    "hardhat": "^2.27.0",
+    "ts-node": "^10.9.2",
     "typescript": "~5.8.0"
   },
   "dependencies": {
