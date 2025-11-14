@@ -1,19 +1,5 @@
 {
   "dependencies": {
-    "crypto-js": "^4.2.0",
-    "did-resolver": "^4.1.0",
-    "ethers": "^6.15.0",
-    "ethr-did": "^3.0.38",
-    "ethr-did-resolver": "^11.0.5",
-    "three": "^0.181.1",
-    "tweetnacl": "^1.0.3",
-    "web3.storage": "^4.5.5"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.22",
-    "circom": "^0.5.46",
-    "hardhat-deploy": "^1.0.4",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.17"
+    "bootstrap": "^5.3.8"
   }
 }
